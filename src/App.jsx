@@ -1,14 +1,15 @@
-import ItemListContainer from "./componentes/ItemListContainer/ItemListContainer"
+import "./app.css"
 import NavBar from "./componentes/NavBar/NavBar"
+import ItemListContainer from "./componentes/ItemListContainer/ItemListContainer"
 
 const App = () => {
+
+
   return (
     <>
 
-
-
-    <NavBar/>
-    <ItemListContainer saludo = "Hola esto es un prop"/>
+     <NavBar/>
+      <ItemListContainer/>
     </>
   )
 }
