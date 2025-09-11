@@ -1,4 +1,4 @@
-header{
+header {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -9,4 +9,8 @@ li{
     display: inline-block;
     margin: 10px;
     cursor: pointer;
+}
+
+.logoMarolio{
+    width: 150px;
 }
