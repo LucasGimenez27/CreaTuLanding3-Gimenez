@@ -16,3 +16,4 @@ Este es un proyecto de e-commer basico que se utiliza para el curso de React. La
 - Realizar una orden de compra
 
 ## Dominio del Sitio:
+https://final-react-lgez.vercel.app/
